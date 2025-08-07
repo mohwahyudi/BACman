@@ -1,6 +1,6 @@
 # BACman 🕵️‍♂️ - A Burp Extension for BAC Testing
 
-Tired of manually testing for Broken Access Control vulnerabilities? BACman is a simple Burp Suite extension designed to make your life easier.
+BACman is a simple Burp Suite extension designed to make your life easier.
 
 It helps you organize your testing workflow and quickly check endpoints for BAC issues by simplifying the process of replaying requests with different user contexts.
 
